@@ -1,0 +1,27 @@
+{
+  "name": "cameraapptutorial",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~46.0.10",
+    "expo-camera": "~12.3.0",
+    "expo-media-library": "~14.2.0",
+    "expo-sharing": "~10.3.0",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "^0.70.1",
+    "react-native-web": "0.18.9"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.1"
+  },
+  "private": true
+}
